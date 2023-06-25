@@ -8,7 +8,8 @@ sdk_version: 3.27.0
 app_file: app.py
 pinned: false
 license: openrail
-duplicated_from: FourthBrainGenAI/MarketMail-AI-Space
 ---
+
+Deployed Application: https://huggingface.co/spaces/stjarvie/Generative-SQL-Test-Space 
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
